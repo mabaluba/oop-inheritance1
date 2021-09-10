@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.oop-inheritance1.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\projects\programming\c#1\leetcode\oop-inheritance1\.idea\.idea.oop-inheritance1\.idea/dataSources/
+/dataSources.local.xml
